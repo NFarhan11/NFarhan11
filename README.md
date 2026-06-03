@@ -41,7 +41,7 @@ I'm a full-stack developer who builds web applications end-to-end — from REST 
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [Approval Workflow App](https://github.com/NFarhan11/approval_workflow_app) | Multi-level approval system for managing request sign-offs across roles | Laravel, React | [Railway](https://railway.app) |
+| [Approval Workflow App]([https://github.com/NFarhan11/approval_workflow_app](https://frontend-production-f1cc.up.railway.app)) | Multi-level approval system for managing request sign-offs across roles | Laravel, React | [Railway](https://railway.app) |
 | [E-Ticketing Web App](https://github.com/NFarhan11/project-eticketing-webapp) | Web-based ticketing platform for event or support management | Vue.js | — |
 | [CLI Todo App](https://github.com/NFarhan11/project-cli-todo-app) | Terminal-based task manager built in C to learn low-level programming | C | — |
 
