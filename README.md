@@ -7,7 +7,7 @@
 
 I'm a full-stack developer who builds web applications end-to-end — from REST APIs and database design on the backend to interactive UIs on the frontend. I enjoy turning real-world workflows into clean, usable software.
 
-- Currently working on **approval workflow systems** and **e-ticketing platforms**
+- Currently working on **approval workflow systems**.
 - Exploring **systems programming** with C
 - Open to full-stack or backend roles
 
